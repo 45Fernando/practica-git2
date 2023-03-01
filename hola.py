@@ -1,5 +1,8 @@
 def hola():
-    print("hola")
+    print("bienvenido")
 
 def chau():
     print("chau")
+
+def otra():
+    print("otra")
